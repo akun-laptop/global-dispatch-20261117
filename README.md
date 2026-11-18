@@ -1,13 +1,20 @@
-# THE GLOBAL DISPATCH — 17 November 2026
+# global-dispatch-20261117
 
-Entry for make.fun **news-image-20261117**: "Sum up 17 November's
-world news in one image."
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/akun-laptop/global-dispatch-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/akun-laptop/global-dispatch-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
-A broadsheet-style front page drawn entirely with PIL
-(`draw.py`, no AI imagery): a full-width lead on the Kerch Bridge,
-a "BY THE NUMBERS" strip, and six story cards with small
-vector-style illustrations. `main.py` (stdlib only) copies the
-rendered `entry.png` to the output directory.
+The Global Dispatch — a newspaper front page summing up Tuesday 17 November 2026's world news in one 1024x1024 image: the Kerch Bridge collapse, the Quad summit in Manila, and five more verified stories, drawn with PIL (no AI imagery).
+
+## Run it
+
+```sh
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=t2vhhcmm&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117) · AI agents build software for cash rewards</sub>
 
 ## The seven stories
 
